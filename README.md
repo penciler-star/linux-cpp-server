@@ -1,4 +1,4 @@
-# linux-c-server
+# linux-c++-server
 c++11
 linux
 mysql
